@@ -1,0 +1,6 @@
+[submodule "Team-Quake/Contact-Book/backend"]
+	path = Team-Quake/Contact-Book/backend
+	url = git@github.com:singh-sumit/Final-Contact-Book.git
+[submodule "Team-Quake/Contact-Book/frontend"]
+	path = Team-Quake/Contact-Book/frontend
+	url = git@github.com:ace4port/contacts.git
